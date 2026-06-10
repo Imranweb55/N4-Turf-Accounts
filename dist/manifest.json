@@ -8,6 +8,8 @@
   "orientation": "portrait",
   "background_color": "#f0f4f0",
   "theme_color": "#1a472a",
+  "categories": ["sports", "business", "productivity"],
+  "lang": "en",
   "icons": [
     {
       "src": "/icons-1.png",
