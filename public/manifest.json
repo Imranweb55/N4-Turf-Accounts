@@ -1,0 +1,35 @@
+{
+  "name": "Turf Manager",
+  "short_name": "Turf",
+  "description": "Manage turf slot bookings and payments",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait",
+  "background_color": "#f0f4f0",
+  "theme_color": "#1a472a",
+  "categories": ["sports", "business", "productivity"],
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/icons-1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons-2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons-2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
